@@ -14519,8 +14519,8 @@ body {
   width: 8%;
 }
 
-.mh-256 {
-  min-height: 256px;
+.mh-284 {
+  min-height: 284px;
 }
 
 .mh-100 {
@@ -14568,5 +14568,20 @@ input[type=radio]:checked:after {
 }
 .mh-80{
   min-height: 80px;
+}
+.circle-number{
+  width: 26px;
+  height: 26px;
+  padding: 2px;
+}
+.point{
+  width: 5px;
+  height: 5px;
+}
+.fs-14{
+  font-size: 14px;
+}
+.mh-90{
+  min-height: 90px;
 }
 /*# sourceMappingURL=custom.css.map */
